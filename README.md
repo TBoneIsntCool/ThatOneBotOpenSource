@@ -56,7 +56,7 @@
  
 <br/>
 <div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
+<a href="https://imgur.com/a/tT071pf">
 <img src="https://imgur.com/a/tT071pf" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">ThatOneBot</h3>
