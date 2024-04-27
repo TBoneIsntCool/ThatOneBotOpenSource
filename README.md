@@ -56,8 +56,8 @@
  
 <br/>
 <div align="center">
-<a href="[https://imgur.com/a/tT071pf](https://cdn.discordapp.com/icons/1231510593924628520/8dfe3d3cc481d335d03510070aa42c0c.webp?size=96)">
-<img src="[https://imgur.com/a/tT071pf](https://cdn.discordapp.com/icons/1231510593924628520/8dfe3d3cc481d335d03510070aa42c0c.webp?size=96)" alt="Logo" width="96" height="96">
+<a href="https://github.com/ShaanCoding/ReadME-Generator">
+<img src="https://cdn.discordapp.com/icons/1231510593924628520/8dfe3d3cc481d335d03510070aa42c0c.webp?size=96" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">ThatOneBot</h3>
 <p align="center">
